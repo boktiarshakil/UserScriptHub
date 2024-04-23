@@ -10,7 +10,7 @@
 
 (function() {
   // Define the URL of your quotes file on GitHub
-  const quotesUrl = "https://raw.githubusercontent.com/boktiarshakil/portfolio/master/quotes.txt";
+  const quotesUrl = "https://raw.githubusercontent.com/boktiarshakil/UserScriptHub/main/quranic-reflections/Bangla.txt";
 
   let currentQuoteIndex = 0; // Keeps track of the current quote index
 
