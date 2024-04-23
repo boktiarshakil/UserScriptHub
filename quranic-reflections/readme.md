@@ -33,7 +33,7 @@ If you have any suggestions, bug reports, or improvements for this script, feel 
 
 ## Author:
 
-Your Name: Boktiar Shakil (https://github.com/boktiarshakil)
+Name: Boktiar Shakil (https://github.com/boktiarshakil)
 
 # Additional Notes:
 
