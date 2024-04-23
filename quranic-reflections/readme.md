@@ -33,8 +33,8 @@ If you have any suggestions, bug reports, or improvements for this script, feel 
 
 ## Author:
 
-Your Name: optional, replace with your name or online alias
+Your Name: Boktiar Shakil (https://github.com/boktiarshakil)
 
-## Additional Notes:
+# Additional Notes:
 
     This script retrieves quotes from an external URL. Ensure the URL is reliable and the quotes are appropriate for your use case.
