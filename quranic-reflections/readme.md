@@ -14,6 +14,7 @@ This Violentmonkey/Tampermonkey user script displays random quotes from Quranic 
     Click on "Create a new script" or a similar option.
     Paste the entire content of the quranic-reflection.user.js script (replace the placeholder name) into the script editor.
     Save the script.
+    Or just click link and install: https://raw.githubusercontent.com/boktiarshakil/UserScriptHub/main/quranic-reflections/quranic-reflection.user.js
 
 ## Usage:
 
